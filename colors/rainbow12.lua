@@ -1,5 +1,3 @@
--- File: lua/colors/rainbow12.lua
-
 vim.o.background = "dark"
 vim.cmd("hi clear")
 
